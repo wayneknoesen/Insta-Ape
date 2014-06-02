@@ -10,4 +10,5 @@
 
 @interface WKDismissDetailTransition : NSObject <UIViewControllerAnimatedTransitioning>
 
+
 @end
